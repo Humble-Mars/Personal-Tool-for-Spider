@@ -1,15 +1,10 @@
 # -*- coding:utf8 -*-
 
-import Module
-import urllib.request
-import requests
 import re
-import time
-import random
 import socket
 import threading
-import os.path
-
+import Module
+import requests
 
 url = "https://www.douban.com/note/660331076/"  # 打算爬取的网址
 

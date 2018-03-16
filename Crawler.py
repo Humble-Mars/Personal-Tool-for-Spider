@@ -1,12 +1,9 @@
 # -*- coding:utf8 -*-
-import urllib.request
-import urllib
+
+import random
 import re
 import time
-import random
-import socket
-import threading
-import os.path
+import urllib.request
 import Module
 
 # baseurl = 'http://www.xicidaili.com/nn/'  # 西刺代理
